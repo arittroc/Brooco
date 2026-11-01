@@ -1,0 +1,105 @@
+[
+  {
+    "id": "butter",
+    "name": "Plain Butter Croissant",
+    "category": "pastries",
+    "type": "The croissanterie",
+    "photo": "croissant",
+    "tag": "THE CLASSIC",
+    "description": "Golden layers. A beautifully simple indulgence."
+  },
+  {
+    "id": "pesto",
+    "name": "Pesto Paneer Croissant",
+    "category": "pastries",
+    "type": "The savoury edit",
+    "photo": "pesto-paneer",
+    "tag": "SAVOURY",
+    "description": "A savoury take on a beautifully layered favourite."
+  },
+  {
+    "id": "truffles",
+    "name": "Chocolate Truffles",
+    "category": "chocolate",
+    "type": "The chocolaterie",
+    "photo": "gifting-box",
+    "tag": "LITTLE LUXURIES",
+    "description": "Explore sea salt caramel, cookies & cream, and milk chocolate hazelnut."
+  },
+  {
+    "id": "brownie",
+    "name": "Triple Chocolate Brownie",
+    "category": "bakes",
+    "type": "The chocolate chapter",
+    "photo": "brownie",
+    "tag": "CHOCOLATE LOVE",
+    "description": "A rich little moment for the chocolate lover."
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom Danish",
+    "category": "pastries",
+    "type": "The savoury edit",
+    "photo": "mushroom-danish",
+    "description": "A savoury Danish from the Brooco collection."
+  },
+  {
+    "id": "cream",
+    "name": "Cream Cheese Croissant",
+    "category": "pastries",
+    "type": "The croissanterie",
+    "photo": "cream-cheese",
+    "description": "A cream cheese twist on a layered classic."
+  },
+  {
+    "id": "cookie",
+    "name": "Chocolate Chip Cookie",
+    "category": "bakes",
+    "type": "The cookie collection",
+    "photo": "chocolate-chip-cookie",
+    "description": "For the little pause that calls for a cookie."
+  },
+  {
+    "id": "double",
+    "name": "Double Chocolate Cookie",
+    "category": "bakes",
+    "type": "The cookie collection",
+    "photo": "double-chocolate",
+    "description": "A little more chocolate. A little more indulgence."
+  },
+  {
+    "id": "browniebox",
+    "name": "The Brownie Box",
+    "category": "bakes",
+    "type": "For sharing & gifting",
+    "photo": "brownie-box",
+    "tag": "SHARE THE JOY",
+    "description": "An assortment made for sharing, celebrating or keeping close."
+  },
+  {
+    "id": "cake",
+    "name": "Celebration Cakes",
+    "category": "cakes",
+    "type": "Your occasion, your way",
+    "photo": "floral-cake",
+    "tag": "MADE PERSONAL",
+    "description": "Tell us your occasion, inspiration and serving needs."
+  },
+  {
+    "id": "gifts",
+    "name": "Chocolate Gift Assortment",
+    "category": "cakes",
+    "type": "The gifting collection",
+    "photo": "gift-assortment",
+    "tag": "THOUGHTFULLY GIVEN",
+    "description": "A beautiful way to say thank you, celebrate, or send a little love."
+  },
+  {
+    "id": "chocgift",
+    "name": "Luxury Chocolate Box",
+    "category": "chocolate",
+    "type": "The chocolaterie",
+    "photo": "gifting-box",
+    "description": "A little box of grandeur for a thoughtful gesture."
+  }
+]

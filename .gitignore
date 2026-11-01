@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.review/
+*.tsbuildinfo
+.env*
+!.env.example
+original-*.mp4
+LUSSCIBO MENU*/
